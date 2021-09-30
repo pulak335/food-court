@@ -1,0 +1,10 @@
+.col-meals{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 20px auto;
+}
+.meal-container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
